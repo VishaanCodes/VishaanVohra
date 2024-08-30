@@ -14,7 +14,7 @@
    - Cryptography: Enthusiastic about the art of secure communication.
    - Surgical Robotics: Interested in the intersection of technology and healthcare.
    - Cars: Avid car enthusiast and driving aficionado.
-   - Music: Lead guitarist in two bands, enjoying the creativity of music. 🎸
+   - Music: Lead guitarist in two bands, enjoying the creativity of music. 
 
 - 🤝 Feel free to connect with me or check out my projects:
    - Email: vohravishaan@gmail.com
