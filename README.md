@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VishaanVohra
-- 💞️ I’m looking to collaborate on various social platforms.
+- 🤝 I’m looking to collaborate on various social platforms.
 - 📫 How to reach me on LinkedIn: www.linkedin.com/in/vishaan-vohra-207b1227b
 
 <!---
